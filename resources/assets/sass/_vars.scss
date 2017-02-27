@@ -1,0 +1,30 @@
+/** Colors **/
+$color-primary: #004378;
+
+$color-secondary: #328fbe;
+$color-secondary-darker: #004378;
+
+$color-thirty: #dfdfdf;
+$color-thirty-darker: #24ADE4;
+
+$color-4: #54B2C2;
+$color-4-darker: #0F8699;
+
+$color-5: #E5D232;
+$color-5-darker: #BAAB29;
+
+
+/** Override Boostrap **/
+$brand-primary: $color-thirty;
+$brand-success: $color-primary;
+$brand-info: $color-secondary;
+$brand-warning: $color-5; 
+$brand-danger: $color-secondary;
+
+$panel-default-heading-bg: $color-secondary;
+$panel-default-border: $color-secondary;
+$panel-default-text: #ffffff;
+
+$link-color: $color-primary;
+
+$border-radius-base: 5px;
